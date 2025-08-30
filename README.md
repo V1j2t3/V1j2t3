@@ -7,6 +7,6 @@ o- 👋 Hi, I’m @v1j2t3
 - ⚡ Fun fact: ...
 
 <!---
-V1j2t3/V1j2t3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+v1j2t3/v1j2t3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
